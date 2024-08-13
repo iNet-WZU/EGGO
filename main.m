@@ -8,7 +8,7 @@
 % Please refer to the main paper:
 % Optimizing k-coverage in Energy-saving Wireless Sensor Networks Based on the Elite Global Growth Optimizer
 % Long Chen, Zishang Qiu, Ying Wu, Zhenzhou Tang
-% Expert Systems with Applications, DOI: 
+% Expert Systems with Applications, DOI: https://doi.org/10.1016/j.eswa.2024.124878
 %        AND
 % Qingke Zhang, Hao Gao, Zhi-Hui Zhan, Junqing Li, Huaxiang Zhang 
 % Growth Optimizer: A powerful metaheuristic algorithm for solving continuous and discrete global optimization problems
